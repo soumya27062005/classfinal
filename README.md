@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://dropshield.vercel.app
+**URL**: https://classfinal.vercel.app
 
 ## How can I edit this code?
 
